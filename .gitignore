@@ -1,0 +1,15 @@
+#Compiled Files
+*.class
+/bin/
+
+#jar Files (build Output)
+*.jar
+
+#IDE files 
+.vscode/
+.idea/
+*.iml
+
+#OS junks
+.DS_Store
+
