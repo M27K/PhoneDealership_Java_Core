@@ -1,0 +1,4 @@
+Samsung, Silver, 25000, 101
+Nokia, Gray, 20000, 101
+Samsung, Silver, 25000, 101
+Samsung, Silver, 25000, 101
